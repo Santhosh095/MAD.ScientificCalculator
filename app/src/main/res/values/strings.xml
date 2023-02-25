@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Scientific Calculator</string>
+    <string name="arithmetic_operations">Arithmetic Operations</string>
+    <string name="trigonometry_operations">Trigonometric Operations</string>
+    <string name="advanced_math_functions">Advanced math functions</string>
+    <string name="credits">By - Santhosh S 200701221</string>
+    <string name="num1">ENTER NUMBER 1 :</string>
+    <string name="hint">enter value</string>
+    <string name="num2">ENTER NUMBER 2 :</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+    <string name="arithmetic_solution">SOLUTION :</string>
+    <string name="reset">reset</string>
+    <string name="home">Home</string>
+    <string name="degree_input">ENTER VALUE :</string>
+    <string name="radian">Radian</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="degree">degree</string>
+    <string name="input_type">INPUT TYPE :</string>
+    <string name="sqr">sqr</string>
+    <string name="sqrt">sqrt</string>
+    <string name="log">log</string>
+    <string name="trigonometry_hint">enter values in degrees</string>
+    <string name="mod">%</string>
+    <string name="exponential">**</string>
+</resources>
